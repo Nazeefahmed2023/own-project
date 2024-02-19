@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-link{
+    color: black !important;
+}
+.btn {
+    color: black !important;
+    background-color:lightgreen !important;
+    border: 2px solid black !important;
+}
+.nav-link{
+    color: black !important;
+}
+.btn {
+    color: black !important;
+    background-color:lightgreen !important;
+    border: 2px solid black !important;
+}

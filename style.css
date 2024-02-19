@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow-x:hidden; */
+}
+#header p{
+    color: black;
+}
+
+#header h5{
+    color:aliceblue;
+}
+#header img{
+    height: 80vh; 
+}
+.c1{
+    grid-gap: 10%;
+}
+.d4 img{
+    height: 50vh;
+    width: 76%;
+}
+.s3 ul li a{
+    color: white;
+}
+
+.nav-link{
+    color: black !important;
+}
+.btn {
+    color: black !important;
+    background-color:lightgreen !important;
+    border: 2px solid black !important;
+}
